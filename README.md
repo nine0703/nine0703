@@ -22,7 +22,3 @@ Shell      4 hrs 16 mins   =========================   05.91 %
 <!--END_SECTION:waka-->
 
 ---
-
-#### :star2: [Projects starred by me](https://github.com/maguowei/starred)
-
-[My Awesome Stars](AWESOME-STARS.md)
