@@ -22,7 +22,3 @@ Here are some ideas to get you started:
 | 3b  | GFR中到重度降低 | 30~40 |     |
 | 4   | GFR重度降低 | 15~29 | 综合治疗 ，肾脏替代治疗 |
 | 5   | ESRD肾衰竭 | ＜15或透析 | 适时肾脏替代治疗 |
-
-## 今年汇总 ✨
-
-<img align="" height="137px" src="https://github-readme-stats.vercel.app/api?username=nine0703&hide_title=true&hide_border=true&show_icons=true&include_all_commits=true&line_height=21&bg_color=0,EC6C6C,FFD479,FFFC79,73FA79&theme=graywhite&locale=cn" /><img align="" height="137px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nine0703&hide_title=true&hide_border=true&layout=compact&bg_color=0,73FA79,73FDFF,D783FF&theme=graywhite&locale=cn" />
