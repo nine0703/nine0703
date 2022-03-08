@@ -22,6 +22,8 @@ Here are some ideas to get you started:
 | 3b  | GFR中到重度降低 | 30~40 |     |
 | 4   | GFR重度降低 | 15~29 | 综合治疗 ，肾脏替代治疗 |
 | 5   | ESRD肾衰竭 | ＜15或透析 | 适时肾脏替代治疗 |
+
+
 <!--
 
 Thank you if you like this profile README!
@@ -66,3 +68,21 @@ I'm Y**ou** Y**u**f**an**, a freshman at THU.
 -   :key: GPG key: [`863A0F9FA8127FA4`](https://github.com/ouuan.gpg)
 
 ---
+
+#### :bar_chart: [Monthly coding time](https://github.com/muety/wakapi)
+
+<!--START_SECTION:waka-->
+```text
+Markdown   28 hrs 27 mins  🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜   39.34 % 
+C++        12 hrs 52 mins  🟩🟩🟩🟩🟨⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜   17.78 % 
+Python     6 hrs 28 mins   🟩🟩⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜   08.95 % 
+text       4 hrs 38 mins   🟩🟨⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜   06.40 % 
+Shell      4 hrs 16 mins   🟩🟨⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜   05.91 % 
+```
+<!--END_SECTION:waka-->
+
+---
+
+#### :star2: [Projects starred by me](https://github.com/maguowei/starred)
+
+[My Awesome Stars](AWESOME-STARS.md)
