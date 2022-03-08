@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-[<img align="right" width="50%" src="https://github-readme-stats-ouuan.vercel.app/api?username=nine0703&theme=dark&show_icons=true">](https://metrics.lecoq.io/nine0703?template=classic)
+[<img align="right" width="50%" src="https://github-readme-stats-ouuan.vercel.app/api?username=nine0703&theme=right&show_icons=true">](https://metrics.lecoq.io/nine0703?template=classic)
 
 <br/>	
 <br/>	
