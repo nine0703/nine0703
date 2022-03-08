@@ -1,8 +1,4 @@
-### Hi there 👋
-
-**nine0703/nine0703** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-## Hey, ouuan here! :wave:
+## Hi there 👋
 
 [<img align="right" width="50%" src="https://github-readme-stats-ouuan.vercel.app/api?username=nine0703&theme=dark&show_icons=true">](https://metrics.lecoq.io/ouuan?template=classic)
 
