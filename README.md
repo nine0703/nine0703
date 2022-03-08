@@ -14,7 +14,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 分期
 
-|     |     |     |     |
 | --- | --- | --- | --- |
 | 分期  | 特征  | GFRml/（min**·**1.73m<sup>2</sup>） | 防止目标 |
 | 1   | GFR正常or升高 | ≥90 | CKD病因诊治，环节症状保护肾功能，延缓CDK进展 |
