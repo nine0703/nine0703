@@ -24,5 +24,5 @@ Here are some ideas to get you started:
 | 5   | ESRD肾衰竭 | ＜15或透析 | 适时肾脏替代治疗 |
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=nine0703)](https://github.com/anuraghazra/github-readme-stats)
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&count_private=true)
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=nine0703&count_private=true)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=nine0703&show_icons=true)
