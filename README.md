@@ -3,13 +3,12 @@
 [<img align="right" width="50%" src="https://github-readme-stats-nine0703.vercel.app/api?username=nine0703&theme=dark&show_icons=true">](https://metrics.lecoq.io/nine0703?template=classic)
 
 nine0703.
-> -
-> -
-> -
-> -
-> -
-> -
-> 
+o -
+o -
+o -
+ -
+ -
+ -
 
 <!--START_SECTION:waka-->
 ```text
@@ -20,4 +19,5 @@ text       4 hrs 38 mins   =========================   06.40 %
 Shell      4 hrs 16 mins   =========================   05.91 % 
 ```
 <!--END_SECTION:waka-->
+
 ---
