@@ -3,8 +3,8 @@
 [<img align="right" width="50%" src="https://github-readme-stats-nine0703.vercel.app/api?username=nine0703&theme=dark&show_icons=true">](https://metrics.lecoq.io/nine0703?template=classic)
 
 nine0703.
-o -
-o -
+o --
+o --
 o -
  -
  -
