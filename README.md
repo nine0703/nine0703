@@ -2,8 +2,9 @@
 
 [<img align="right" width="50%" src="https://github-readme-stats.vercel.app/api?username=nine0703&theme=right&show_icons=true">](https://metrics.lecoq.io/nine0703?template=classic)
 
-### ⌛️ Weekly Development Breakdown
+[<img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/wakatime?username=nine0703&layout=compact&custom_title=WakaTime%20Stats%20🕒&theme=radical">](https://metrics.lecoq.io/nine0703?template=classic)
 
+### ⌛️ Weekly Development Breakdown
 ```text
 Markdown   01 hrs 16 mins ============== 📝  02.32 %
 Python     01 hrs 45 mins ============== 🐍  03.21 %
