@@ -3,7 +3,7 @@
 [<img align="right" width="50%" src="https://github-readme-stats.vercel.app/api?username=nine0703&theme=right&show_icons=true">](https://metrics.lecoq.io/nine0703?template=classic)
 
 
-# 👨‍💻 GitHub Stats
+## 👨‍💻 GitHub Stats
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=nine0703&show_icons=true&theme=radical)
 
