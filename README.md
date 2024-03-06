@@ -4,9 +4,6 @@
 
 
 ## 👨‍💻 GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=nine0703&show_icons=true&theme=radical)
-
 ## ⌛️ Weekly Development Breakdown
 
 ```text
