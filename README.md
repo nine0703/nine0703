@@ -1,8 +1,7 @@
 # Hi there! 👋
 
-[<img align="right" width="50%" src="https://github-readme-stats.vercel.app/api?username=nine0703&theme=right&show_icons=true">](https://metrics.lecoq.io/nine0703?template=classic)
+[<img align="left" width="50%" src="https://github-readme-stats.vercel.app/api?username=nine0703&theme=left&show_icons=true">](https://metrics.lecoq.io/nine0703?template=classic)
 
-[<img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/wakatime?username=nine0703&layout=compact&custom_title=WakaTime%20Stats%20🕒&theme=radical">](https://metrics.lecoq.io/nine0703?template=classic)
 
 ### ⌛️ Weekly Development Breakdown
 ```text
