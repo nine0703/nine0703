@@ -1,7 +1,7 @@
 ## Hi there! I'm Takaaki Endo [TK ENDO] 👋
 ### Contact Me
-![blogger](https://img.shields.io/badge/blogger-FF5722.svg?logo=blogger&logoColor=white&style=for-the-badge)
-![RSS](https://img.shields.io/badge/RSS-FFA500.svg?logo=rss&logoColor=white&style=for-the-badge)
+[![blogger](https://img.shields.io/badge/blogger-FF5722.svg?logo=blogger&logoColor=white&style=for-the-badge)](nine0703.github.io/docsify_java_docs)
+[![RSS](https://img.shields.io/badge/RSS-FFA500.svg?logo=rss&logoColor=white&style=for-the-badge)](MyRSS.html)
 
 ### Something is Good！
 | Languages| Game| Framework | Utils  | Database  |
