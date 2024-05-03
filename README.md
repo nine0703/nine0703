@@ -9,9 +9,7 @@
 ![HTML](https://img.shields.io/badge/HTML-239120.svg?logo=html5&logoColor=white)<br>
 ![Go](https://img.shields.io/badge/Go-00ADD8.svg?logo=go&logoColor=white)
 ![Ruby](https://img.shields.io/badge/Ruby-CC342D.svg?logo=ruby&logoColor=white)
-![Dart](https://img.shields.io/badge/Dart-0175C2.svg?logo=dart&logoColor=white)
-
-**Game**
+![Dart](https://img.shields.io/badge/Dart-0175C2.svg?logo=dart&logoColor=white)**Game**
 
 ![Steam](https://img.shields.io/badge/Steam-000000.svg?logo=steam&logoColor=white)
 ![xbox](https://img.shields.io/badge/xbox-107C10.svg?logo=xbox&logoColor=white)
