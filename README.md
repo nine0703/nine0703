@@ -14,7 +14,6 @@
 ![Go](https://img.shields.io/badge/Go-00ADD8.svg?logo=go&logoColor=white)
 ![Ruby](https://img.shields.io/badge/Ruby-CC342D.svg?logo=ruby&logoColor=white)
 ![Dart](https://img.shields.io/badge/Dart-0175C2.svg?logo=dart&logoColor=white)
-![Flutter](https://img.shields.io/badge/Flutter-02569B.svg?logo=flutter&logoColor=white)
 
 **Game**
 
@@ -27,6 +26,7 @@
 
 ![VueJS](https://img.shields.io/badge/Vue.js-35495e.svg?logo=vue.js&logoColor=4FC08D)
 ![Spring](https://img.shields.io/badge/Spring-6DB33F.svg?logo=spring&logoColor=white)
+![Flutter](https://img.shields.io/badge/Flutter-02569B.svg?logo=flutter&logoColor=white)
 
 **Utils**
 
