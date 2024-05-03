@@ -1,8 +1,4 @@
 ## Hi there! I'm Takaaki Endo [TK ENDO] 👋
-### **✍️ GitHub Stats:**
-![nine0703's github stats](https://github-readme-stats.vercel.app/api?username=nine0703&show_icons=true&hide_title=true&count_private=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nine0703&layout=compact)
-
 **Languages:**
 
 ![Python](https://img.shields.io/badge/Python-14354C.svg?logo=python&logoColor=white)
@@ -15,14 +11,12 @@
 ![Ruby](https://img.shields.io/badge/Ruby-CC342D.svg?logo=ruby&logoColor=white)
 ![Dart](https://img.shields.io/badge/Dart-0175C2.svg?logo=dart&logoColor=white)
 
-<div style="float: right; width: 50%;">
 **Game**
 
 ![Steam](https://img.shields.io/badge/Steam-000000.svg?logo=steam&logoColor=white)
 ![xbox](https://img.shields.io/badge/xbox-107C10.svg?logo=xbox&logoColor=white)
 ![Switch](https://img.shields.io/badge/Switch-E60012.svg?logo=nintendo-switch&logoColor=white)<br>
 ![Playstation](https://img.shields.io/badge/Playstation-003791.svg?logo=playstation&logoColor=white)
-</div>
 
 **Framework**
 
@@ -42,5 +36,9 @@
 ![mysql](https://img.shields.io/badge/mysql-00000f.svg?logo=mysql&logoColor=white)
 ![postgres](https://img.shields.io/badge/postgres-316192.svg?logo=postgresql&logoColor=white)
 ![sqlite](https://img.shields.io/badge/sqlite-07405e.svg?logo=sqlite&logoColor=white)
+
+### **✍️ GitHub Stats:**
+![nine0703's github stats](https://github-readme-stats.vercel.app/api?username=nine0703&show_icons=true&hide_title=true&count_private=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nine0703&layout=compact)
 
 
