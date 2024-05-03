@@ -11,14 +11,12 @@
 ![Ruby](https://img.shields.io/badge/Ruby-CC342D.svg?logo=ruby&logoColor=white)
 ![Dart](https://img.shields.io/badge/Dart-0175C2.svg?logo=dart&logoColor=white)
 
-<figure class="third">
 **Game**
 
 ![Steam](https://img.shields.io/badge/Steam-000000.svg?logo=steam&logoColor=white)
 ![xbox](https://img.shields.io/badge/xbox-107C10.svg?logo=xbox&logoColor=white)
 ![Switch](https://img.shields.io/badge/Switch-E60012.svg?logo=nintendo-switch&logoColor=white)<br>
 ![Playstation](https://img.shields.io/badge/Playstation-003791.svg?logo=playstation&logoColor=white)
-</figure>
 
 **Framework**
 
