@@ -6,7 +6,7 @@
 **Languages:**
 
 ![Python](https://img.shields.io/badge/Python-14354C.svg?logo=python&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00.svg?logo=fa-brands&logoColor=fff)
+![Java](https://img.shields.io/badge/Java-ED8B00.svg?logo=coffeescript&logoColor=fff)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=JavaScript&logoColor=333)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=TypeScript&logoColor=fff)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?logo=CSS3&logoColor=fff)
