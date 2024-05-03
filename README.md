@@ -1,6 +1,6 @@
 ## Hi there! I'm Takaaki Endo [TK ENDO] 👋
 
-![nine0703's github stats](https://github-readme-streak-stats.herokuapp.com/?user=nine0703)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=TK%20ENDO&hide_border=true&border_radius=1.6&card_width=385&hide_total_contributions=true&hide_current_streak=true)](https://git.io/streak-stats)
 
 ### 📧 Contact Me
 [![blogger](https://img.shields.io/badge/Blogger-FF5722.svg?logo=blogger&logoColor=white)](http://nine0703.github.io/docsify_java_docs)
