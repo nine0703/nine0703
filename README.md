@@ -30,7 +30,7 @@
 
 **Utils**
 
-![IntelliJ]('https://img.shields.io/badge/IntelliJ IDEA-black?logo=intellij-idea&logoColor=white')
+![IntelliJ]("https://img.shields.io/badge/IntelliJ IDEA-black?logo=intellij-idea&logoColor=white")
 ![Markdown](https://img.shields.io/badge/Markdown-000000.svg?logo=markdown&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-black?logo=git)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white)
