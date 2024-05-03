@@ -1,7 +1,8 @@
 # Hi there! I'm Takaaki Endo [TK ENDO]👋
 
-[<img align="left" width="50%" src="https://github-readme-stats.vercel.app/api?username=nine0703&theme=left&show_icons=true">](https://metrics.lecoq.io/nine0703?template=classic)
+![nine0703's github stats](https://github-readme-stats.vercel.app/api?username=nine0703&show_icons=true&hide_title=true&count_private=true)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nine0703&layout=compact)
+
 ### ⌛️ Weekly Development Breakdown
 ```text
 Markdown   01 hrs 16 mins =========== 📝  02.32 %
