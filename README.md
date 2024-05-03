@@ -2,8 +2,6 @@
 
 [<img align="left" width="50%" src="https://github-readme-stats.vercel.app/api?username=nine0703&theme=left&show_icons=true">](https://metrics.lecoq.io/nine0703?template=classic)
 
-**Languages:**
-
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?logo=HTML5&logoColor=fff)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?logo=CSS3&logoColor=fff)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=JavaScript&logoColor=333)
