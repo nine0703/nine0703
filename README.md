@@ -30,7 +30,6 @@ Game       52 hrs 30 mins =========== 🎮  91.47 %
 ![xbox](https://img.shields.io/badge/xbox-107C10.svg?logo=xbox&logoColor=white)
 ![Switch](https://img.shields.io/badge/Switch-E60012.svg?logo=nintendo-switch&logoColor=white)
 ![Playstation](https://img.shields.io/badge/Playstation-003791.svg?logo=playstation&logoColor=white)
-![counter strike](https://img.shields.io/badge/counter strike-000000.svg?logo=counter-strike)
 
 **Framework**
 
@@ -39,11 +38,15 @@ Game       52 hrs 30 mins =========== 🎮  91.47 %
 
 **Utils**
 
-![IntelliJ](https://img.shields.io/badge/IntelliJ IDEA-black?logo=intellij-idea&logoColor=white)
+![IntelliJ]('https://img.shields.io/badge/IntelliJ IDEA-black?logo=intellij-idea&logoColor=white')
 ![Markdown](https://img.shields.io/badge/Markdown-000000.svg?logo=markdown&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-black?logo=git)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white)
 
 **Database**
 
-![mysql](https://img.shields.io/badge/mysql-00000f.svg?logo=mysql&logoColor=white)![postgres](https://img.shields.io/badge/postgres-316192.svg?logo=postgresql&logoColor=white)![sqlite](https://img.shields.io/badge/sqlite-07405e.svg?logo=sqlite&logoColor=white)
+![mysql](https://img.shields.io/badge/mysql-00000f.svg?logo=mysql&logoColor=white)
+![postgres](https://img.shields.io/badge/postgres-316192.svg?logo=postgresql&logoColor=white)
+![sqlite](https://img.shields.io/badge/sqlite-07405e.svg?logo=sqlite&logoColor=white)
+
+
