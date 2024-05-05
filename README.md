@@ -6,7 +6,7 @@
 [![RCI](https://img.shields.io/badge/RCI%20Labarary-FFFFFF.svg?logo=unitednations&logoColor=blue)](#)
 [![SCP](https://img.shields.io/badge/SCP-FFFFFF.svg?logo=scpfoundation&logoColor=black)](https://scp-wiki-cn.wikidot.com/)
 [![RSS](https://img.shields.io/badge/RSS-FFFFFF.svg?logo=rss&logoColor=#FFA500)](RSS)
-[![aboutdotme](https://img.shields.io/badge/About%20Me-FFFFFF.svg?logo=aboutdotme&logoColor=#333333)](https://nine0703.github.io/nine0703/)
+[![aboutdotme](https://img.shields.io/badge/About%20Me-FFFFFF.svg?logo=aboutdotme&logoColor=black)](https://nine0703.github.io/nine0703/)
 </br>
 [![Gmail](https://img.shields.io/badge/Gmail-FFFFFF.svg?logo=gmail&logoColor=EA4335)](#none)
 [![Docs](https://img.shields.io/badge/Blogger-3178C6.svg?logo=blogger&logoColor=white)](http://nine0703.github.io/docsify_java_docs)
