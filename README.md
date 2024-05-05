@@ -10,7 +10,7 @@
 [![Gmail](https://img.shields.io/badge/Gmail-FFFFFF.svg?logo=gmail&logoColor=EA4335)](#none)
 </br>
 [![Docs](https://img.shields.io/badge/Blogger-3178C6.svg?logo=blogger&logoColor=white)](http://nine0703.github.io/docsify_java_docs)
-[![Bilibili](https://img.shields.io/badge/Bilibili-FF6666.svg?logo=bilibili&logoColor=white)](#none)
+[![Bilibili](https://img.shields.io/badge/Bilibili-FF6666.svg?logo=bilibili&logoColor=white)](https://www.bilibili.com/)
 [![neteasecloudmusic](https://img.shields.io/badge/Music-D43C33.svg?logo=neteasecloudmusic&logoColor=white)](#none)
 [![wechat](https://img.shields.io/badge/Wechat%20Pay-07C160.svg?logo=wechat&logoColor=white)](weechatQRcode.jpg)
 [![alipay](https://img.shields.io/badge/Alipay-1677FF.svg?logo=alipay&logoColor=white)](alipayQRcode.jpg)
