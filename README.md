@@ -6,7 +6,7 @@
 [![Gmail](https://img.shields.io/badge/Gmail-313131.svg?logo=gmail&logoColor=EA4335)](#)
 [![Docs](https://img.shields.io/badge/Blogger-3178C6.svg?logo=blogger&logoColor=white)](http://nine0703.github.io/docsify_java_docs)
 [![Bilibili](https://img.shields.io/badge/Bilibili-FF6666.svg?logo=bilibili&logoColor=white)](#)
-[![neteasecloudmusic](https://img.shields.io/badge/CloudMusic-D43C33.svg?logo=neteasecloudmusic&logoColor=white)](#)
+[![neteasecloudmusic](https://img.shields.io/badge/Music-D43C33.svg?logo=neteasecloudmusic&logoColor=white)](#)
 [![RSS](https://img.shields.io/badge/RSS-FFA500.svg?logo=rss&logoColor=white)](MyRSS.html)
 [![RCI](https://img.shields.io/badge/RCI%20Labarary-313131.svg?logo=unitednations&logoColor=white)](#)
 [![SCP](https://img.shields.io/badge/SCP-FFFFFF.svg?logo=scpfoundation&logoColor=black)](#)
