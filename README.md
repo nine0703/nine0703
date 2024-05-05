@@ -3,15 +3,15 @@
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=TK%20ENDO&hide_border=true&border_radius=1.6&card_width=800)](https://git.io/streak-stats)
 
 ### 📧 Contact Me
-[![Gmail](https://img.shields.io/badge/Gmail-313131.svg?logo=gmail&logoColor=EA4335)](#)
+[![Gmail](https://img.shields.io/badge/Gmail-313131.svg?logo=gmail&logoColor=EA4335)](#none)
 [![Docs](https://img.shields.io/badge/Blogger-3178C6.svg?logo=blogger&logoColor=white)](http://nine0703.github.io/docsify_java_docs)
-[![Bilibili](https://img.shields.io/badge/Bilibili-FF6666.svg?logo=bilibili&logoColor=white)](#)
-[![neteasecloudmusic](https://img.shields.io/badge/Music-D43C33.svg?logo=neteasecloudmusic&logoColor=white)](#)
+[![Bilibili](https://img.shields.io/badge/Bilibili-FF6666.svg?logo=bilibili&logoColor=white)](#none)
+[![neteasecloudmusic](https://img.shields.io/badge/Music-D43C33.svg?logo=neteasecloudmusic&logoColor=white)](#none)
 [![RSS](https://img.shields.io/badge/RSS-FFA500.svg?logo=rss&logoColor=white)](MyRSS.html)
 [![RCI](https://img.shields.io/badge/RCI%20Labarary-313131.svg?logo=unitednations&logoColor=white)](#)
-[![SCP](https://img.shields.io/badge/SCP-FFFFFF.svg?logo=scpfoundation&logoColor=black)](#)
-[![wechat](https://img.shields.io/badge/Wechat-07C160.svg?logo=wechat&logoColor=white)](#)
-[![alipay](https://img.shields.io/badge/Alipay-1677FF.svg?logo=alipay&logoColor=white)](#)
+[![SCP](https://img.shields.io/badge/SCP-FFFFFF.svg?logo=scpfoundation&logoColor=black)](#none)
+[![wechat](https://img.shields.io/badge/Wechat-07C160.svg?logo=wechat&logoColor=white)](#none)
+[![alipay](https://img.shields.io/badge/Alipay-1677FF.svg?logo=alipay&logoColor=white)](#none)
 
 ### ✨ Something is Good！
 | Languages| Game| Framework | Utils  | Database  |
@@ -20,6 +20,6 @@
 
 ### **✍️ GitHub Stats:**
 [![nine0703's github stats](https://github-readme-stats.vercel.app/api?username=nine0703&show_icons=true&hide_title=true&count_private=true)](#none)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nine0703&layout=compact)](#)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nine0703&layout=compact)](#none)
 
 
