@@ -9,7 +9,7 @@
 [![neteasecloudmusic](https://img.shields.io/badge/Music-D43C33.svg?logo=neteasecloudmusic&logoColor=white)](#none)
 [![RSS](https://img.shields.io/badge/RSS-FFA500.svg?logo=rss&logoColor=white)](RSS)
 [![RCI](https://img.shields.io/badge/RCI%20Labarary-313131.svg?logo=unitednations&logoColor=white)](#)
-[![SCP](https://img.shields.io/badge/SCP-FFFFFF.svg?logo=scpfoundation&logoColor=black)](#none)
+[![SCP](https://img.shields.io/badge/SCP-FFFFFF.svg?logo=scpfoundation&logoColor=black)](https://scp-wiki-cn.wikidot.com/)
 [![wechat](https://img.shields.io/badge/Wechat%20Pay-07C160.svg?logo=wechat&logoColor=white)](weechatQRcode.jpg)
 [![alipay](https://img.shields.io/badge/Alipay-1677FF.svg?logo=alipay&logoColor=white)](alipayQRcode.jpg)
 [![aboutdotme](https://img.shields.io/badge/About%20Me-333333.svg?logo=aboutdotme&logoColor=white)](https://nine0703.github.io/nine0703/)
