@@ -13,6 +13,7 @@
 [![wechat](https://img.shields.io/badge/Wechat-07C160.svg?logo=wechat&logoColor=white)](#none)
 [![alipay](https://img.shields.io/badge/Alipay-1677FF.svg?logo=alipay&logoColor=white)](#none)
 [![aboutdotme](https://img.shields.io/badge/About%20Me-333333.svg?logo=aboutdotme&logoColor=white)](https://nine0703.github.io/docsify_java_docs/#/about.html)
+<a href="https://nine0703.github.io/docsify_java_docs/#/about.html" target="_blank">关于 dotme</a>
 
 ### ✨ Something is Good！
 | Languages| Game| Framework | Utils  | Database  |
