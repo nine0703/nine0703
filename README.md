@@ -7,7 +7,7 @@
 [![Docs](https://img.shields.io/badge/Blogger-3178C6.svg?logo=blogger&logoColor=white)](http://nine0703.github.io/docsify_java_docs)
 [![Bilibili](https://img.shields.io/badge/Bilibili-FF6666.svg?logo=bilibili&logoColor=white)](#none)
 [![neteasecloudmusic](https://img.shields.io/badge/Music-D43C33.svg?logo=neteasecloudmusic&logoColor=white)](#none)
-[![RSS](https://img.shields.io/badge/RSS-FFA500.svg?logo=rss&logoColor=white)](MyRSS.html)
+[![RSS](https://img.shields.io/badge/RSS-FFA500.svg?logo=rss&logoColor=white)](RSS)
 [![RCI](https://img.shields.io/badge/RCI%20Labarary-313131.svg?logo=unitednations&logoColor=white)](#)
 [![SCP](https://img.shields.io/badge/SCP-FFFFFF.svg?logo=scpfoundation&logoColor=black)](#none)
 [![wechat](https://img.shields.io/badge/Wechat%20Pay-07C160.svg?logo=wechat&logoColor=white)](weechatQRcode.jpg)
