@@ -3,7 +3,7 @@
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=TK%20ENDO&hide_border=true&border_radius=1.6&card_width=800)](https://git.io/streak-stats)
 
 ### 📧 Contact Me
-[![Docs](https://img.shields.io/badge/Blogger-FF5722.svg?logo=blogger&logoColor=white)](http://nine0703.github.io/docsify_java_docs)
+[![Docs](https://img.shields.io/badge/Blogger-3178C6.svg?logo=blogger&logoColor=white)](http://nine0703.github.io/docsify_java_docs)
 [![Bilibili](https://img.shields.io/badge/Bilibili-FF6666.svg?logo=bilibili&logoColor=white)](#)
 [![RSS](https://img.shields.io/badge/RSS-FFA500.svg?logo=rss&logoColor=white)](MyRSS.html)
 
