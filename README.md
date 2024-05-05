@@ -1,6 +1,6 @@
 ## Hi there! I'm Takaaki Endo [TK ENDO] 👋
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=TK%20ENDO&hide_border=true&border_radius=1.6&card_width=800)](https://git.io/streak-stats)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=TK%20ENDO&hide_border=true&border_radius=1.6&card_width=800)](#none)
 
 ### 📧 Contact Me
 [![Gmail](https://img.shields.io/badge/Gmail-313131.svg?logo=gmail&logoColor=EA4335)](#none)
