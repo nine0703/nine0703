@@ -8,7 +8,6 @@
 [![RSS](https://img.shields.io/badge/RSS-FFFFFF.svg?logo=rss&logoColor=#FFA500)](RSS)
 [![aboutdotme](https://img.shields.io/badge/About%20Me-FFFFFF.svg?logo=aboutdotme&logoColor=black)](https://nine0703.github.io/nine0703/)
 [![Gmail](https://img.shields.io/badge/Gmail-FFFFFF.svg?logo=gmail&logoColor=EA4335)](#none)
-#[![QQmail](https://img.shields.io/badge/Gmail-FFFFFF.svg?logo=gmail&logoColor=EA4335)](#none)
 </br>
 [![Docs](https://img.shields.io/badge/Blogger-3178C6.svg?logo=blogger&logoColor=white)](http://nine0703.github.io/docsify_java_docs)
 [![Bilibili](https://img.shields.io/badge/Bilibili-FF6666.svg?logo=bilibili&logoColor=white)](#none)
