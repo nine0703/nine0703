@@ -7,6 +7,7 @@
 [![Docs](https://img.shields.io/badge/Blogger-3178C6.svg?logo=blogger&logoColor=white)](http://nine0703.github.io/docsify_java_docs)
 [![Bilibili](https://img.shields.io/badge/Bilibili-FF6666.svg?logo=bilibili&logoColor=white)](#)
 [![RSS](https://img.shields.io/badge/RSS-FFA500.svg?logo=rss&logoColor=white)](MyRSS.html)
+[![alipay](https://img.shields.io/badge/Alipay-1677FF.svg?logo=alipay&logoColor=white)](#)
 
 ### ✨ Something is Good！
 | Languages| Game| Framework | Utils  | Database  |
