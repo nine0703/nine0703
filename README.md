@@ -8,6 +8,7 @@
 [![Bilibili](https://img.shields.io/badge/Bilibili-FF6666.svg?logo=bilibili&logoColor=white)](#)
 [![RSS](https://img.shields.io/badge/RSS-FFA500.svg?logo=rss&logoColor=white)](MyRSS.html)
 [![RCI](https://img.shields.io/badge/RCI%20Labarary-313131.svg?logo=unitednations&logoColor=white)](#)
+[![scpfoundation](https://img.shields.io/badge/SCP-FFFFFF.svg?logo=scpfoundation&logoColor=white)](MyRSS.html)
 [![wechat](https://img.shields.io/badge/Wechat-07C160.svg?logo=wechat&logoColor=white)](#)
 [![alipay](https://img.shields.io/badge/Alipay-1677FF.svg?logo=alipay&logoColor=white)](#)
 
