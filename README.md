@@ -1,13 +1,11 @@
 ## Hi there! I'm Takaaki Endo [TK ENDO] 👋
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=nine0703&hide_border=true&border_radius=1.6&card_width=800)](#hi-there-im-takaaki-endo-tk-endo-)
-
 ### 🗣 Speak Something
 ```text
 我们似乎有着相遇，我们似乎早已别离。
                                     —— 黄昏下的乌鸦
 ```
-
 ### 📧 Contact Me
 [![RCI](https://img.shields.io/badge/RCI%20Labarary-FFFFFF.svg?logo=unitednations&logoColor=blue)](#-contact-me)
 [![SCP](https://img.shields.io/badge/SCP-FFFFFF.svg?logo=scpfoundation&logoColor=black)](https://scp-wiki-cn.wikidot.com/)
