@@ -3,11 +3,9 @@
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=nine0703&hide_border=true&border_radius=1.6&card_width=800)](#hi-there-im-takaaki-endo-tk-endo-)
 
 ### 🗣 Speak Something
-```bash
-hello
-
-
-
+```text
+我们似乎有着相遇，我们似乎早已别离。
+                                    —— 黄昏下的乌鸦
 ```
 
 ### 📧 Contact Me
